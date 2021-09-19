@@ -1,4 +1,6 @@
 Presentación proyecto: Prueba Inicial para Sprint 1
+El proyecto tiene como objetivo realizar un programa de software que maneje y realize el seguimiento del sistema de ventas fisicas y virtuales de una empresa de manufactura. 
+
 
 Presentación integrantes:
 
